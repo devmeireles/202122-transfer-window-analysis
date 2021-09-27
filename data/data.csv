@@ -1,0 +1,251 @@
+name,position,age,market_value,country_from,league_from,club_from,country_to,league_to,club_to,fee
+Jack Grealish,Left Winger,25,65000000,England,Premier League,Aston Villa,England,Premier League,Manchester City,117000000
+Romelu Lukaku,Centre-Forward,28,100000000,Italy,Serie A,Inter Milan,England,Premier League,Chelsea FC,115000000
+Jadon Sancho,Left Winger,21,100000000,Germany,Bundesliga,Borussia Dortmund,England,Premier League,Manchester United,85000000
+Lionel Messi,Right Winger,34,80000000,Spain,LaLiga,FC Barcelona,France,Ligue 1,Paris Saint-Germain,free transfer
+Raphaël Varane,Centre-Back,28,70000000,Spain,LaLiga,Real Madrid,England,Premier League,Manchester United,40000000
+Achraf Hakimi,Right-Back,22,60000000,Italy,Serie A,Inter Milan,France,Ligue 1,Paris Saint-Germain,60000000
+Dayot Upamecano,Centre-Back,22,60000000,Germany,Bundesliga,RB Leipzig,Germany,Bundesliga,Bayern Munich,42000000
+Antoine Griezmann,Second Striker,30,60000000,Spain,LaLiga,FC Barcelona,Spain,LaLiga,Atlético de Madrid,10000000
+Gianluigi Donnarumma,Goalkeeper,22,60000000,Italy,Serie A,AC Milan,France,Ligue 1,Paris Saint-Germain,free transfer
+Ben White,Centre-Back,23,28000000,England,Premier League,Brighton & Hove Albion,England,Premier League,Arsenal FC,58000000
+Eduardo Camavinga,Central Midfield,18,55000000,France,Ligue 1,Stade Rennais FC,Spain,LaLiga,Real Madrid,31000000
+David Alaba,Centre-Back,29,55000000,Germany,Bundesliga,Bayern Munich,Spain,LaLiga,Real Madrid,free transfer
+André Silva,Centre-Forward,25,45000000,Germany,Bundesliga,Eintracht Frankfurt,Germany,Bundesliga,RB Leipzig,23000000
+Cristiano Ronaldo,Centre-Forward,36,45000000,Italy,Serie A,Juventus FC,England,Premier League,Manchester United,15000000
+Memphis Depay,Centre-Forward,27,45000000,France,Ligue 1,Olympique Lyon,Spain,LaLiga,FC Barcelona,free transfer
+Marcel Sabitzer,Central Midfield,27,42000000,Germany,Bundesliga,RB Leipzig,Germany,Bundesliga,Bayern Munich,15000000
+Ibrahima Konaté,Centre-Back,22,35000000,Germany,Bundesliga,RB Leipzig,England,Premier League,Liverpool FC,40000000
+Tammy Abraham,Centre-Forward,23,38000000,England,Premier League,Chelsea FC,Italy,Serie A,AS Roma,40000000
+Martin Ødegaard,Attacking Midfield,22,40000000,Spain,LaLiga,Real Madrid,England,Premier League,Arsenal FC,35000000
+Nuno Mendes,Left-Back,19,40000000,Portugal,Liga Bwin,Sporting CP,France,Ligue 1,Paris Saint-Germain,7000000
+Saúl Ñíguez,Central Midfield,26,40000000,Spain,LaLiga,Atlético de Madrid,England,Premier League,Chelsea FC,5000000
+Emiliano Buendía,Right Winger,24,35000000,England,Premier League,Norwich City,England,Premier League,Aston Villa,38000000
+Rodrigo de Paul,Central Midfield,27,38000000,Italy,Serie A,Udinese Calcio,Spain,LaLiga,Atlético de Madrid,35000000
+Kurt Zouma,Centre-Back,26,32000000,England,Premier League,Chelsea FC,England,Premier League,West Ham United,35000000
+Leon Bailey,Left Winger,23,35000000,Germany,Bundesliga,Bayer 04 Leverkusen,England,Premier League,Aston Villa,32000000
+Angeliño,Left-Back,24,35000000,England,Premier League,Manchester City,Germany,Bundesliga,RB Leipzig,18000000
+Cristian Romero,Centre-Back,23,35000000,Italy,Serie A,Juventus FC,Italy,Serie A,Atalanta BC,16000000
+Moise Kean,Centre-Forward,21,35000000,England,Premier League,Everton FC,Italy,Serie A,Juventus FC,7000000
+Hakan Calhanoglu,Attacking Midfield,27,35000000,Italy,Serie A,AC Milan,Italy,Serie A,Inter Milan,free transfer
+Cristian Romero,Centre-Back,23,35000000,Italy,Serie A,Atalanta BC,England,Premier League,Tottenham Hotspur,loan transfer
+Manuel Locatelli,Defensive Midfield,23,35000000,Italy,Serie A,US Sassuolo,Italy,Serie A,Juventus FC,loan transfer
+Patson Daka,Centre-Forward,22,22000000,Austria,Bundesliga,Red Bull Salzburg,England,Premier League,Leicester City,30000000
+Donyell Malen,Centre-Forward,22,30000000,Netherlands,Eredivisie,PSV Eindhoven,Germany,Bundesliga,Borussia Dortmund,30000000
+Matheus Cunha,Centre-Forward,22,30000000,Germany,Bundesliga,Hertha BSC,Spain,LaLiga,Atlético de Madrid,30000000
+Nikola Vlasic,Attacking Midfield,23,30000000,Russia,Premier Liga,CSKA Moscow,England,Premier League,West Ham United,30000000
+Bryan Gil,Left Winger,20,30000000,Spain,LaLiga,Sevilla FC,England,Premier League,Tottenham Hotspur,25000000
+Matteo Politano,Right Winger,27,30000000,Italy,Serie A,Inter Milan,Italy,Serie A,SSC Napoli,19000000
+Joaquín Correa,Second Striker,27,30000000,Italy,Serie A,SS Lazio,Italy,Serie A,Inter Milan,5000000
+Georginio Wijnaldum,Central Midfield,30,30000000,England,Premier League,Liverpool FC,France,Ligue 1,Paris Saint-Germain,free transfer
+Joe Willock,Central Midfield,21,16000000,England,Premier League,Arsenal FC,England,Premier League,Newcastle United,29000000
+Fikayo Tomori,Centre-Back,23,28000000,England,Premier League,Chelsea FC,Italy,Serie A,AC Milan,29000000
+Daniel James,Left Winger,23,18000000,England,Premier League,Manchester United,England,Premier League,Leeds United,29000000
+Aaron Ramsdale,Goalkeeper,23,12000000,England,Championship,Sheffield United,England,Premier League,Arsenal FC,28000000
+Boubakary Soumaré,Defensive Midfield,22,28000000,France,Ligue 1,LOSC Lille,England,Premier League,Leicester City,20000000
+James Rodríguez,Attacking Midfield,30,28000000,England,Premier League,Everton FC,Qatar,Stars League,Al-Rayyan SC,8000000
+Merih Demiral,Centre-Back,23,28000000,Italy,Serie A,Juventus FC,Italy,Serie A,Atalanta BC,3000000
+Sandro Tonali,Defensive Midfield,21,27000000,Italy,Serie B,Brescia Calcio,Italy,Serie A,AC Milan,6000000
+Gerson,Central Midfield,24,20000000,Brazil,Série A,Clube de Regatas do Flamengo,France,Ligue 1,Olympique Marseille,25000000
+Emerson Royal,Right-Back,22,25000000,Spain,LaLiga,FC Barcelona,England,Premier League,Tottenham Hotspur,25000000
+Weston McKennie,Central Midfield,22,25000000,Germany,2. Bundesliga,FC Schalke 04,Italy,Serie A,Juventus FC,20000000
+Ilaix Moriba,Central Midfield,18,25000000,Spain,Primera Div. R.F.E.F. - Gr. II,FC Barcelona B,Germany,Bundesliga,RB Leipzig,16000000
+Emerson Royal,Right-Back,22,25000000,Spain,LaLiga,Real Betis Balompié,Spain,LaLiga,FC Barcelona,14000000
+Mike Maignan,Goalkeeper,25,25000000,France,Ligue 1,LOSC Lille,Italy,Serie A,AC Milan,13000000
+Roger Ibañez,Centre-Back,22,25000000,Italy,Serie A,Atalanta BC,Italy,Serie A,AS Roma,9000000
+Ozan Kabak,Centre-Back,21,25000000,Germany,2. Bundesliga,FC Schalke 04,England,Premier League,Norwich City,4000000
+André Zambo Anguissa,Defensive Midfield,25,25000000,England,Championship,Fulham FC,Italy,Serie A,SSC Napoli,600000
+Héctor Bellerín,Right-Back,26,25000000,England,Premier League,Arsenal FC,Spain,LaLiga,Real Betis Balompié,loan transfer
+Pablo Sarabia,Right Winger,29,25000000,France,Ligue 1,Paris Saint-Germain,Portugal,Liga Bwin,Sporting CP,loan transfer
+Nicolás González,Left Winger,23,22000000,Germany,Bundesliga,VfB Stuttgart,Italy,Serie A,ACF Fiorentina,23000000
+Marc Guehi,Centre-Back,21,10000000,England,Premier League 2,Chelsea FC U23,England,Premier League,Crystal Palace,23000000
+Enock Mwepu,Central Midfield,23,13000000,Austria,Bundesliga,Red Bull Salzburg,England,Premier League,Brighton & Hove Albion,23000000
+Odilon Kossounou,Centre-Back,20,13000000,Belgium,Jupiler Pro League,Club Brugge KV,Germany,Bundesliga,Bayer 04 Leverkusen,23000000
+Danny Ings,Centre-Forward,29,22000000,England,Premier League,Southampton FC,England,Premier League,Aston Villa,29000000
+Joachim Andersen,Centre-Back,25,22000000,France,Ligue 1,Olympique Lyon,England,Premier League,Crystal Palace,17000000
+Arkadiusz Milik,Centre-Forward,27,22000000,Italy,Serie A,SSC Napoli,France,Ligue 1,Olympique Marseille,9000000
+Noa Lang,Left Winger,22,22000000,Netherlands,Eredivisie,Ajax Amsterdam,Belgium,Jupiler Pro League,Club Brugge KV,6000000
+Francisco Trincão,Right Winger,21,22000000,Spain,LaLiga,FC Barcelona,England,Premier League,Wolverhampton Wanderers,loan transfer
+Juan Musso,Goalkeeper,27,20000000,Italy,Serie A,Udinese Calcio,Italy,Serie A,Atalanta BC,20000000
+Jhon Córdoba,Centre-Forward,28,15000000,Germany,Bundesliga,Hertha BSC,Russia,Premier Liga,FK Krasnodar,20000000
+Takehiro Tomiyasu,Right-Back,22,20000000,Italy,Serie A,Bologna FC 1909,England,Premier League,Arsenal FC,18000000
+Marc Cucurella,Left Midfield,23,20000000,Spain,LaLiga,Getafe CF,England,Premier League,Brighton & Hove Albion,18000000
+Hamed Junior Traorè,Attacking Midfield,21,20000000,Italy,Serie A,FC Empoli,Italy,Serie A,US Sassuolo,16000000
+Danilo Pereira,Defensive Midfield,29,20000000,Portugal,Liga Bwin,FC Porto,France,Ligue 1,Paris Saint-Germain,16000000
+Musa Barrow,Centre-Forward,22,20000000,Italy,Serie A,Atalanta BC,Italy,Serie A,Bologna FC 1909,14000000
+Tiemoué Bakayoko,Defensive Midfield,27,20000000,England,Premier League,Chelsea FC,Italy,Serie A,AC Milan,2000000
+Lucas Torreira,Defensive Midfield,25,20000000,England,Premier League,Arsenal FC,Italy,Serie A,ACF Fiorentina,1000000
+Eric García,Centre-Back,20,20000000,England,Premier League,Manchester City,Spain,LaLiga,FC Barcelona,free transfer
+Mattéo Guendouzi,Central Midfield,22,20000000,England,Premier League,Arsenal FC,France,Ligue 1,Olympique Marseille,loan transfer
+Miralem Pjanic,Central Midfield,31,20000000,Spain,LaLiga,FC Barcelona,Turkey,Süper Lig,Besiktas JK,loan transfer
+Josko Gvardiol,Centre-Back,19,19000000,Croatia,1.HNL,GNK Dinamo Zagreb,Germany,Bundesliga,RB Leipzig,18000000
+Pedrinho,Right Winger,23,15000000,Portugal,Liga Bwin,SL Benfica,Ukraine,Premier Liga,Shakhtar Donetsk,18000000
+Matheus Pereira,Right Winger,25,15000000,England,Championship,West Bromwich Albion,Saudi Arabia,Professional League,Al-Hilal Riyadh,18000000
+Adam Armstrong,Centre-Forward,24,18000000,England,Championship,Blackburn Rovers,England,Premier League,Southampton FC,17000000
+Jannik Vestergaard,Centre-Back,29,18000000,England,Premier League,Southampton FC,England,Premier League,Leicester City,17000000
+Mohamed Simakan,Centre-Back,21,18000000,France,Ligue 1,RC Strasbourg Alsace,Germany,Bundesliga,RB Leipzig,15000000
+Rayan Aït Nouri,Left-Back,20,18000000,France,Ligue 1,SCO Angers,England,Premier League,Wolverhampton Wanderers,11000000
+Carlos Vinícius,Centre-Forward,26,18000000,Portugal,Liga Bwin,SL Benfica,Netherlands,Eredivisie,PSV Eindhoven,2000000
+Dennis Praet,Central Midfield,27,18000000,England,Premier League,Leicester City,Italy,Serie A,Torino FC,1000000
+Cengiz Ünder,Right Winger,23,18000000,Italy,Serie A,AS Roma,France,Ligue 1,Olympique Marseille,500000
+Sergio Agüero,Centre-Forward,33,18000000,England,Premier League,Manchester City,Spain,LaLiga,FC Barcelona,free transfer
+William Saliba,Centre-Back,20,18000000,England,Premier League,Arsenal FC,France,Ligue 1,Olympique Marseille,loan transfer
+Willian José,Centre-Forward,29,18000000,Spain,LaLiga,Real Sociedad,Spain,LaLiga,Real Betis Balompié,loan transfer
+Yangel Herrera,Central Midfield,23,18000000,England,Premier League,Manchester City,Spain,LaLiga,RCD Espanyol Barcelona,loan transfer
+Diego Rossi,Left Winger,23,18000000,United States,MLS,Los Angeles FC,Turkey,Süper Lig,Fenerbahce SK,loan transfer
+Albert Sambi Lokonga,Central Midfield,21,12000000,Belgium,Jupiler Pro League,RSC Anderlecht,England,Premier League,Arsenal FC,17000000
+Eldor Shomurodov,Centre-Forward,26,7000000,Italy,Serie A,Genoa CFC,Italy,Serie A,AS Roma,17000000
+Roman Yaremchuk,Centre-Forward,25,17000000,Belgium,Jupiler Pro League,KAA Gent,Portugal,Liga Bwin,SL Benfica,17000000
+Loïc Badé,Centre-Back,21,12000000,France,Ligue 1,RC Lens,France,Ligue 1,Stade Rennais FC,17000000
+Myron Boadu,Centre-Forward,20,14000000,Netherlands,Eredivisie,AZ Alkmaar,Monaco,Ligue 1,AS Monaco,17000000
+Odsonne Edouard,Centre-Forward,23,17000000,Scotland,Premiership,Celtic FC,England,Premier League,Crystal Palace,16000000
+Harry Wilson,Right Winger,24,17000000,England,Premier League,Liverpool FC,England,Championship,Fulham FC,14000000
+Gonzalo Montiel,Right-Back,24,17000000,Argentina,Liga Profesional,Club Atlético River Plate,Spain,LaLiga,Sevilla FC,11000000
+Alphonse Areola,Goalkeeper,28,17000000,France,Ligue 1,Paris Saint-Germain,England,Premier League,West Ham United,2000000
+Florian Thauvin,Right Winger,28,17000000,France,Ligue 1,Olympique Marseille,Mexico,Liga MX Apertura,Tigres UANL,free transfer
+Rafael Borré,Centre-Forward,25,17000000,Argentina,Liga Profesional,Club Atlético River Plate,Germany,Bundesliga,Eintracht Frankfurt,free transfer
+Pierluigi Gollini,Goalkeeper,26,17000000,Italy,Serie A,Atalanta BC,England,Premier League,Tottenham Hotspur,loan transfer
+Teun Koopmeiners,Defensive Midfield,23,16000000,Netherlands,Eredivisie,AZ Alkmaar,Italy,Serie A,Atalanta BC,12000000
+Zinho Vanheusden,Centre-Back,21,12000000,Belgium,Jupiler Pro League,Standard Liège,Italy,Serie A,Inter Milan,16000000
+Rafa Mir,Centre-Forward,24,12000000,England,Premier League,Wolverhampton Wanderers,Spain,LaLiga,Sevilla FC,16000000
+Denzel Dumfries,Right Midfield,25,16000000,Netherlands,Eredivisie,PSV Eindhoven,Italy,Serie A,Inter Milan,12000000
+Andy Delort,Centre-Forward,29,16000000,France,Ligue 1,Montpellier HSC,France,Ligue 1,OGC Nice,10000000
+Alexander Sörloth,Centre-Forward,25,16000000,Germany,Bundesliga,RB Leipzig,Spain,LaLiga,Real Sociedad,2000000
+Erik Lamela,Right Winger,29,16000000,England,Premier League,Tottenham Hotspur,Spain,LaLiga,Sevilla FC,free transfer
+Kristoffer Ajer,Centre-Back,23,7000000,Scotland,Premiership,Celtic FC,England,Premier League,Brentford FC,15000000
+Arnaut Danjuma,Left Winger,24,15000000,England,Championship,AFC Bournemouth,Spain,LaLiga,Villarreal CF,23000000
+Pepê,Left Winger,24,13000000,Brazil,Série A,Grêmio Foot-Ball Porto Alegrense,Portugal,Liga Bwin,FC Porto,15000000
+Benjamin Henrichs,Right-Back,24,12000000,Monaco,Ligue 1,AS Monaco,Germany,Bundesliga,RB Leipzig,15000000
+Gregor Kobel,Goalkeeper,23,13000000,Germany,Bundesliga,VfB Stuttgart,Germany,Bundesliga,Borussia Dortmund,15000000
+Juan Foyth,Centre-Back,23,12000000,England,Premier League,Tottenham Hotspur,Spain,LaLiga,Villarreal CF,15000000
+Junior Firpo,Left-Back,24,8000000,Spain,LaLiga,FC Barcelona,England,Premier League,Leeds United,15000000
+Calvin Stengs,Right Winger,22,14000000,Netherlands,Eredivisie,AZ Alkmaar,France,Ligue 1,OGC Nice,15000000
+Kamaldeen Sulemana,Left Winger,19,9000000,Denmark,Superligaen,FC Nordsjaelland,France,Ligue 1,Stade Rennais FC,15000000
+Maxwel Cornet,Left-Back,24,12000000,France,Ligue 1,Olympique Lyon,England,Premier League,Burnley FC,15000000
+Gaëtan Laborde,Centre-Forward,27,15000000,France,Ligue 1,Montpellier HSC,France,Ligue 1,Stade Rennais FC,15000000
+Baptiste Santamaria,Defensive Midfield,26,15000000,Germany,Bundesliga,SC Freiburg,France,Ligue 1,Stade Rennais FC,14000000
+Jack Harrison,Left Winger,24,15000000,England,Premier League,Manchester City,England,Premier League,Leeds United,12000000
+Luca Waldschmidt,Second Striker,25,15000000,Portugal,Liga Bwin,SL Benfica,Germany,Bundesliga,VfL Wolfsburg,12000000
+Razvan Marin,Central Midfield,25,15000000,Netherlands,Eredivisie,Ajax Amsterdam,Italy,Serie A,Cagliari Calcio,10000000
+Michael Olise,Attacking Midfield,19,15000000,England,Championship,Reading FC,England,Premier League,Crystal Palace,9000000
+Thomas Delaney,Defensive Midfield,29,15000000,Germany,Bundesliga,Borussia Dortmund,Spain,LaLiga,Sevilla FC,6000000
+Carles Aleñá,Central Midfield,23,15000000,Spain,LaLiga,FC Barcelona,Spain,LaLiga,Getafe CF,5000000
+Grzegorz Krychowiak,Defensive Midfield,31,15000000,Russia,Premier Liga,Lokomotiv Moscow,Russia,Premier Liga,FK Krasnodar,4000000
+Brahim Díaz,Attacking Midfield,21,15000000,Spain,LaLiga,Real Madrid,Italy,Serie A,AC Milan,3000000
+Marko Grujic,Defensive Midfield,25,15000000,England,Premier League,Liverpool FC,Portugal,Liga Bwin,FC Porto,1000000
+Mattia Zaccagni,Attacking Midfield,26,15000000,Italy,Serie A,Hellas Verona,Italy,Serie A,SS Lazio,200000
+Conor Gallagher,Central Midfield,21,15000000,England,Premier League 2,Chelsea FC U23,England,Premier League,Crystal Palace,loan transfer
+Takefusa Kubo,Right Winger,20,15000000,Spain,LaLiga,Real Madrid,Spain,LaLiga,RCD Mallorca,loan transfer
+Matheus Henrique,Central Midfield,23,15000000,Brazil,Série A,Grêmio Foot-Ball Porto Alegrense,Italy,Serie A,US Sassuolo,loan transfer
+Ethan Ampadu,Centre-Back,20,15000000,England,Premier League,Chelsea FC,Italy,Serie A,Venezia FC,loan transfer
+Nathan Collins,Centre-Back,20,8000000,England,Championship,Stoke City,England,Premier League,Burnley FC,14000000
+Boulaye Dia,Centre-Forward,24,14000000,France,Ligue 1,Stade Reims,Spain,LaLiga,Villarreal CF,12000000
+Kayky,Right Winger,18,14000000,Brazil,Série A,Fluminense Football Club,England,Premier League,Manchester City,10000000
+Antonin Barak,Attacking Midfield,26,14000000,Italy,Serie A,Udinese Calcio,Italy,Serie A,Hellas Verona,6000000
+Emerson,Left-Back,27,14000000,England,Premier League,Chelsea FC,France,Ligue 1,Olympique Lyon,500000
+Justin Kluivert,Left Winger,22,14000000,Italy,Serie A,AS Roma,France,Ligue 1,OGC Nice,loan transfer
+Sebastiaan Bornauw,Centre-Back,22,12000000,Germany,Bundesliga,1. FC Köln,Germany,Bundesliga,VfL Wolfsburg,13000000
+Toby Alderweireld,Centre-Back,32,11000000,England,Premier League,Tottenham Hotspur,Qatar,Stars League,Al-Duhail SC,13000000
+Matías Viña,Left-Back,23,5000000,Brazil,Série A,Sociedade Esportiva Palmeiras,Italy,Serie A,AS Roma,13000000
+Lovro Majer,Attacking Midfield,23,13000000,Croatia,1.HNL,GNK Dinamo Zagreb,France,Ligue 1,Stade Rennais FC,12000000
+Mathias Normann,Defensive Midfield,25,13000000,Russia,Premier Liga,FK Rostov,England,Premier League,Norwich City,2000000
+Alessandro Florenzi,Right-Back,30,13000000,Italy,Serie A,AS Roma,Italy,Serie A,AC Milan,1000000
+Elseid Hysaj,Right-Back,27,13000000,Italy,Serie A,SSC Napoli,Italy,Serie A,SS Lazio,free transfer
+Wesley,Centre-Forward,24,13000000,England,Premier League,Aston Villa,Belgium,Jupiler Pro League,Club Brugge KV,loan transfer
+Dodi Lukébakio,Right Winger,23,13000000,Germany,Bundesliga,Hertha BSC,Germany,Bundesliga,VfL Wolfsburg,loan transfer
+Marlon,Centre-Back,25,6000000,Italy,Serie A,US Sassuolo,Ukraine,Premier Liga,Shakhtar Donetsk,12000000
+Romain Perraud,Left-Back,23,8000000,France,Ligue 1,Stade Brestois 29,England,Premier League,Southampton FC,12000000
+Mohamed Daramy,Left Winger,19,4000000,Denmark,Superligaen,FC Copenhagen,Netherlands,Eredivisie,Ajax Amsterdam,12000000
+Christos Tzolis,Left Winger,19,12000000,Greece,Super League 1,PAOK Thessaloniki,England,Premier League,Norwich City,11000000
+Imrân Louza,Central Midfield,22,12000000,France,Ligue 1,FC Nantes,England,Premier League,Watford FC,10000000
+Jean-Clair Todibo,Centre-Back,21,12000000,Spain,LaLiga,FC Barcelona,France,Ligue 1,OGC Nice,8000000
+Lukas Nmecha,Centre-Forward,22,12000000,England,Premier League,Manchester City,Germany,Bundesliga,VfL Wolfsburg,8000000
+Xherdan Shaqiri,Right Winger,29,12000000,England,Premier League,Liverpool FC,France,Ligue 1,Olympique Lyon,6000000
+Steven Berghuis,Right Winger,29,12000000,Netherlands,Eredivisie,Feyenoord Rotterdam,Netherlands,Eredivisie,Ajax Amsterdam,5000000
+Mohamed Ihattaren,Attacking Midfield,19,12000000,Netherlands,Eredivisie,PSV Eindhoven,Italy,Serie A,Juventus FC,5000000
+Faitout Maouassa,Left-Back,23,12000000,France,Ligue 1,Stade Rennais FC,Belgium,Jupiler Pro League,Club Brugge KV,4000000
+Rachid Ghezzal,Right Winger,29,12000000,England,Premier League,Leicester City,Turkey,Süper Lig,Besiktas JK,3000000
+Kaio Jorge,Centre-Forward,19,12000000,Brazil,Série A,Santos FC,Italy,Serie A,Juventus FC,1000000
+Bernard,Left Winger,28,12000000,England,Premier League,Everton FC,United Arab Emirates,UAE Pro League,Sharjah Cultural Sports Club,1000000
+Josip Brekalo,Left Winger,23,12000000,Germany,Bundesliga,VfL Wolfsburg,Italy,Serie A,Torino FC,1000000
+Rui Silva,Goalkeeper,27,12000000,Spain,LaLiga,Granada CF,Spain,LaLiga,Real Betis Balompié,free transfer
+João Mário,Central Midfield,28,12000000,Italy,Serie A,Inter Milan,Portugal,Liga Bwin,SL Benfica,free transfer
+Zinho Vanheusden,Centre-Back,21,12000000,Italy,Serie A,Inter Milan,Italy,Serie A,Genoa CFC,loan transfer
+Andrea Pinamonti,Centre-Forward,22,12000000,Italy,Serie A,Inter Milan,Italy,Serie A,FC Empoli,loan transfer
+Unai López,Central Midfield,25,12000000,Spain,LaLiga,Athletic Bilbao,Spain,LaLiga,Rayo Vallecano,loan transfer
+Mohamed Ihattaren,Attacking Midfield,19,12000000,Italy,Serie A,Juventus FC,Italy,Serie A,UC Sampdoria,loan transfer
+Rui Patrício,Goalkeeper,33,10000000,England,Premier League,Wolverhampton Wanderers,Italy,Serie A,AS Roma,11000000
+Claudinho,Attacking Midfield,24,11000000,Brazil,Série A,Red Bull Bragantino,Russia,Premier Liga,Zenit St. Petersburg,12000000
+Jean Lucas,Central Midfield,23,4000000,France,Ligue 1,Olympique Lyon,Monaco,Ligue 1,AS Monaco,11000000
+Leonardo Balerdi,Centre-Back,22,8000000,Germany,Bundesliga,Borussia Dortmund,France,Ligue 1,Olympique Marseille,11000000
+Milot Rashica,Right Winger,25,9000000,Germany,2. Bundesliga,SV Werder Bremen,England,Premier League,Norwich City,11000000
+Francisco Ribeiro,Central Midfield,18,-,Portugal,Without League,FC Porto U19,Portugal,Liga Revelacao U23,Vitória de Guimarães SC U23,11000000
+Abdallah Sima,Right Winger,20,11000000,Czech Republic,Fortuna Liga,SK Slavia Prague,England,Premier League,Brighton & Hove Albion,8000000
+Jakub Jankto,Left Midfield,25,11000000,Italy,Serie A,UC Sampdoria,Spain,LaLiga,Getafe CF,6000000
+Giovanni Simeone,Centre-Forward,26,11000000,Italy,Serie A,Cagliari Calcio,Italy,Serie A,Hellas Verona,1000000
+Ozan Tufan,Central Midfield,26,11000000,Turkey,Süper Lig,Fenerbahce SK,England,Premier League,Watford FC,1000000
+Abdallah Sima,Right Winger,20,11000000,England,Premier League,Brighton & Hove Albion,England,Championship,Stoke City,loan transfer
+Hee-chan Hwang,Centre-Forward,25,11000000,Germany,Bundesliga,RB Leipzig,England,Premier League,Wolverhampton Wanderers,loan transfer
+Ademola Lookman,Left Winger,23,11000000,Germany,Bundesliga,RB Leipzig,England,Premier League,Leicester City,loan transfer
+Luiz Araújo,Right Winger,25,10000000,France,Ligue 1,LOSC Lille,United States,MLS,Atlanta United FC,10000000
+Lautaro Valenti,Centre-Back,22,4000000,Argentina,Liga Profesional,Club Atlético Lanús,Italy,Serie B,Parma Calcio 1913,10000000
+Igor Coronado,Attacking Midfield,28,5000000,United Arab Emirates,UAE Pro League,Sharjah Cultural Sports Club,Saudi Arabia,Professional League,Al-Ittihad Jeddah,10000000
+Pape Sarr,Defensive Midfield,18,10000000,France,Ligue 1,FC Metz,England,Premier League,Tottenham Hotspur,16000000
+Lassina Traoré,Centre-Forward,20,6000000,Netherlands,Eredivisie,Ajax Amsterdam,Ukraine,Premier Liga,Shakhtar Donetsk,10000000
+Frank Onyeka,Central Midfield,23,6000000,Denmark,Superligaen,FC Midtjylland,England,Premier League,Brentford FC,10000000
+Yoane Wissa,Left Winger,24,10000000,France,Ligue 1,FC Lorient,England,Premier League,Brentford FC,10000000
+Talisca,Attacking Midfield,27,10000000,China,Super League,Guangzhou FC,Saudi Arabia,Professional League,Al-Nassr Riad,8000000
+Alban Lafont,Goalkeeper,22,10000000,Italy,Serie A,ACF Fiorentina,France,Ligue 1,FC Nantes,7000000
+Mitchel Bakker,Left-Back,21,10000000,France,Ligue 1,Paris Saint-Germain,Germany,Bundesliga,Bayer 04 Leverkusen,7000000
+Ludwig Augustinsson,Left-Back,27,10000000,Germany,2. Bundesliga,SV Werder Bremen,Spain,LaLiga,Sevilla FC,5000000
+Mario Lemina,Defensive Midfield,27,10000000,England,Premier League,Southampton FC,France,Ligue 1,OGC Nice,5000000
+Alex Kral,Defensive Midfield,23,10000000,Russia,Premier Liga,Spartak Moscow,England,Premier League,West Ham United,5000000
+Mergim Berisha,Centre-Forward,23,10000000,Austria,Bundesliga,Red Bull Salzburg,Turkey,Süper Lig,Fenerbahce SK,5000000
+Moussa Sissoko,Central Midfield,32,10000000,England,Premier League,Tottenham Hotspur,England,Premier League,Watford FC,3000000
+Felipe Anderson,Left Winger,28,10000000,England,Premier League,West Ham United,Italy,Serie A,SS Lazio,3000000
+Marko Arnautovic,Centre-Forward,32,10000000,China,Super League,Shanghai Port,Italy,Serie A,Bologna FC 1909,3000000
+Maxime López,Central Midfield,23,10000000,France,Ligue 1,Olympique Marseille,Italy,Serie A,US Sassuolo,2000000
+Pau López,Goalkeeper,26,10000000,Italy,Serie A,AS Roma,France,Ligue 1,Olympique Marseille,720000
+Kenedy,Left Winger,25,10000000,England,Premier League,Chelsea FC,Brazil,Série A,Clube de Regatas do Flamengo,500000
+Michy Batshuayi,Centre-Forward,27,10000000,England,Premier League,Chelsea FC,Turkey,Süper Lig,Besiktas JK,150000
+Moussa Marega,Second Striker,30,10000000,Portugal,Liga Bwin,FC Porto,Saudi Arabia,Professional League,Al-Hilal Riyadh,free transfer
+Vincent Aboubakar,Centre-Forward,29,10000000,Turkey,Süper Lig,Besiktas JK,Saudi Arabia,Professional League,Al-Nassr Riad,free transfer
+Sergio Ramos,Centre-Back,35,10000000,Spain,LaLiga,Real Madrid,France,Ligue 1,Paris Saint-Germain,free transfer
+Billy Gilmour,Central Midfield,20,10000000,England,Premier League,Chelsea FC,England,Premier League,Norwich City,loan transfer
+José Macías,Centre-Forward,21,10000000,Mexico,Liga MX Apertura,Deportivo Guadalajara,Spain,LaLiga,Getafe CF,loan transfer
+Benjamin Lecomte,Goalkeeper,30,10000000,Monaco,Ligue 1,AS Monaco,Spain,LaLiga,Atlético de Madrid,loan transfer
+Brandon Williams,Left-Back,20,10000000,England,Premier League,Manchester United,England,Premier League,Norwich City,loan transfer
+Pape Sarr,Defensive Midfield,18,10000000,England,Premier League,Tottenham Hotspur,France,Ligue 1,FC Metz,loan transfer
+Álvaro Odriozola,Right-Back,25,10000000,Spain,LaLiga,Real Madrid,Italy,Serie A,ACF Fiorentina,loan transfer
+Kang-in Lee,Attacking Midfield,20,10000000,Spain,LaLiga,Valencia CF,Spain,LaLiga,RCD Mallorca,free transfer
+Florentino,Defensive Midfield,22,10000000,Portugal,Liga Bwin,SL Benfica,Spain,LaLiga,Getafe CF,loan transfer
+Valentino Lazaro,Right Winger,25,10000000,Italy,Serie A,Inter Milan,Portugal,Liga Bwin,SL Benfica,loan transfer
+Arnaud Kalimuendo,Centre-Forward,19,10000000,France,Ligue 1,Paris Saint-Germain,France,Ligue 1,RC Lens,loan transfer
+Nikola Maksimovic,Centre-Back,29,10000000,Italy,Serie A,SSC Napoli,Italy,Serie A,Genoa CFC,free transfer
+Diogo Leite,Centre-Back,22,10000000,Portugal,Liga Bwin,FC Porto,Portugal,Liga Bwin,SC Braga,loan transfer
+Hélder Costa,Right Winger,27,10000000,England,Premier League,Leeds United,Spain,LaLiga,Valencia CF,loan transfer
+Luuk de Jong,Centre-Forward,31,10000000,Spain,LaLiga,Sevilla FC,Spain,LaLiga,FC Barcelona,loan transfer
+Amine Harit,Attacking Midfield,24,10000000,Germany,2. Bundesliga,FC Schalke 04,France,Ligue 1,Olympique Marseille,loan transfer
+Hannes Wolf,Attacking Midfield,22,8000000,Germany,Bundesliga,RB Leipzig,Germany,Bundesliga,Borussia Mönchengladbach,9000000
+Josh Sargent,Centre-Forward,21,8000000,Germany,2. Bundesliga,SV Werder Bremen,England,Premier League,Norwich City,9000000
+Paulinho,Central Midfield,32,9000000,China,Super League,Guangzhou FC,Saudi Arabia,Professional League,Al-Ahli Jeddah,free transfer
+Jens Petter Hauge,Left Winger,21,9000000,Italy,Serie A,AC Milan,Germany,Bundesliga,Eintracht Frankfurt,loan transfer
+Ben Gibson,Centre-Back,28,7000000,England,Premier League,Burnley FC,England,Premier League,Norwich City,9000000
+Davide Zappacosta,Right-Back,29,8000000,England,Premier League,Chelsea FC,Italy,Serie A,Atalanta BC,9000000
+Kamal Sowah,Right Winger,21,3000000,England,Premier League 2,Leicester City U23,Belgium,Jupiler Pro League,Club Brugge KV,9000000
+Ante Budimir,Centre-Forward,29,9000000,Spain,LaLiga,RCD Mallorca,Spain,LaLiga,CA Osasuna,8000000
+Suat Serdar,Central Midfield,24,9000000,Germany,2. Bundesliga,FC Schalke 04,Germany,Bundesliga,Hertha BSC,8000000
+Yacine Adli,Attacking Midfield,21,9000000,France,Ligue 1,FC Girondins Bordeaux,Italy,Serie A,AC Milan,8000000
+Toma Basic,Central Midfield,24,9000000,France,Ligue 1,FC Girondins Bordeaux,Italy,Serie A,SS Lazio,6000000
+Pol Lirola,Right-Back,24,9000000,Italy,Serie A,ACF Fiorentina,France,Ligue 1,Olympique Marseille,6000000
+Fábio Martins,Left Winger,28,9000000,Portugal,Liga Bwin,SC Braga,United Arab Emirates,UAE Pro League,Al-Wahda FC Abu Dhabi,3000000
+Marco Silvestri,Goalkeeper,30,9000000,Italy,Serie A,Hellas Verona,Italy,Serie A,Udinese Calcio,2000000
+Marcos Paulo,Left Winger,20,9000000,Brazil,Série A,Fluminense Football Club,Spain,LaLiga,Atlético de Madrid,free transfer
+Patrick Cutrone,Centre-Forward,23,9000000,England,Premier League,Wolverhampton Wanderers,Italy,Serie A,FC Empoli,loan transfer
+Marcos Paulo,Left Winger,20,9000000,Spain,LaLiga,Atlético de Madrid,Portugal,Liga Bwin,FC Famalicão,loan transfer
+Loren Morón,Centre-Forward,27,9000000,Spain,LaLiga,Real Betis Balompié,Spain,LaLiga,RCD Espanyol Barcelona,loan transfer
+Willian,Right Winger,33,9000000,England,Premier League,Arsenal FC,Brazil,Série A,Sport Club Corinthians Paulista,free transfer
+Reiss Nelson,Right Winger,21,9000000,England,Premier League,Arsenal FC,Netherlands,Eredivisie,Feyenoord Rotterdam,loan transfer
+Yacine Adli,Attacking Midfield,21,9000000,Italy,Serie A,AC Milan,France,Ligue 1,FC Girondins Bordeaux,loan transfer
+Javairô Dilrosun,Left Winger,23,9000000,Germany,Bundesliga,Hertha BSC,France,Ligue 1,FC Girondins Bordeaux,loan transfer
+Marcos André,Centre-Forward,24,3000000,Spain,LaLiga2,Real Valladolid CF,Spain,LaLiga,Valencia CF,8000000
